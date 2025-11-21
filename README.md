@@ -9,17 +9,17 @@ Please to welcome you in my GitHub profile! I'm passionate about Computer Scienc
 
 Dedicated software engineer with a Bachelor's and Master's in Computer Science and Engineering. My expertise lies in Microsoft .NET Full Stack Development with Leading and Project Management experience inlcuding cloud services. I thrive in fast-paced environments, driving projects to success. Open to relocation and eager for new challenges to leverage my technical and analytical skills.
 
-## Core Skills 
+## Skills
 
-·	End to End Program Management
-·	Backend: ASP.NET Core, C#, Web API, WCF, MVC, Blazor, LINQ, Entity Framework
-·	Frontend: Angular, React, JavaScript, jQuery, HTML, CSS
-·	Databases: SQL Server, Oracle, T-SQL, Stored Procedures, SSIS, SSRS
-·	Cloud & DevOps: Azure App Services, CI/CD, Azure DevOps, Git, TFS, Jenkins
-·	Architecture: Microservices, SOA, Design Patterns (SOLID, MVC, CQRS), TDD
-·	Project Leadership: Agile/Scrum, Kanban, Stakeholder Management, Roadmap Planning
-·	Tools: Postman, SOAP UI, NUnit, Visio, Rally, JIRA, ServiceNow, UML, Visio
-·	Strong experience in End to End Managing of Microsoft based Projects mostly Web, Windows and Cloud based applications using Microsoft.Net and related technologies
+- Architecture: Microservices, SOA, Design Patterns (SOLID, MVC, CQRS), TDD
+- Frontend: Blazor.Net, Angular, React, JavaScript, jQuery, HTML, CSS
+- Backend: ASP.NET Core, C#, Java, Web API, WCF, MVC, LINQ, Entity Framework
+- Frameworks & Libraries: .NET, Angular, JDK, .NET MAUI
+- Databases: SQL Server, Oracle, MySQL, MongoDB, Azure SQL
+- Cloud Platforms: Microsoft Azure, Amazon Web Service
+- Tools & Technologies: Postman, SOAP UI, NUnit, Visio, Rally, JIRA, ServiceNow, UML, Visio, Git, Docker, Jenkins, RESTful APIs, DevOps, CI/CD
+- Project Leadership: Agile/Scrum, Kanban, Stakeholder Management, Roadmap Planning
+- Strong experience of Managing End to End Microsoft based Projects mostly in Web, Windows, Mobile and Cloud based applications using Microsoft.Net and related technologies
 
 
 ## Contact Me
