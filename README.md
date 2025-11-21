@@ -17,8 +17,8 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 - Frameworks & Libraries: .NET, Angular, JDK, .NET MAUI
 - Databases: SQL Server, Oracle, MySQL, MongoDB, Azure SQL
 - Cloud Platforms: Microsoft Azure, Amazon Web Service
-- Tools & Technologies: Postman, SOAP UI, NUnit, Visio, Rally, JIRA, ServiceNow, UML, Visio, Git, Docker, Jenkins, RESTful APIs, DevOps, CI/CD
-- Project Leadership: Agile/Scrum, Kanban, Stakeholder Management, Roadmap Planning
+- Tools & Technologies: Visual Studio, Postman, SOAP UI, NUnit, Visio, Rally, JIRA, ServiceNow, UML, Git, Docker, Jenkins, RESTful APIs, DevOps, CI/CD
+- Project Leadership: Agile/Scrum, Kanban, Stakeholder Management, Roadmap Planning, Cross Teams, OnShore - OffShore / NearShore Model
 - Strong experience of Managing End to End Microsoft based Projects mostly in Web, Windows, Mobile and Cloud based applications using Microsoft.Net and related technologies
 
 
