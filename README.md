@@ -9,7 +9,7 @@ Please to welcome you in my GitHub profile! I'm passionate about Computer Scienc
 
 Dedicated software engineer with a Bachelor's and Master's in Computer Science and Engineering. My expertise lies in Microsoft .NET Full Stack Development with Leading and Project Management experience inlcuding cloud services. I thrive in fast-paced environments, driving projects to success. Open to relocation and eager for new challenges to leverage my technical and analytical skills.
 
-## Core Skills and 
+## Core Skills 
 
 ·	End to End Program Management
 ·	Backend: ASP.NET Core, C#, Web API, WCF, MVC, Blazor, LINQ, Entity Framework
@@ -24,7 +24,7 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 
 ## Contact Me
 
-- Email: radhikabhong@gmail.com
+- Email: laxmikant.shingare@gmail.com
 - LinkedIn: [[linkedin.com/in/laxmikantshingare](https://www.linkedin.com/in/laxmikant-shingare-4a82751a/)]
 - Phone: +1 (623) 200-1887
 
