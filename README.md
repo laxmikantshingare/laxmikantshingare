@@ -11,7 +11,7 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 
 ## Skill's
 
-- Architecture: Microservices, SOA, N-Tire with Design Patterns (SOLID, MVC, CQRS TDD)
+- Architecture: Microservices, SOA, N-Tire with Design Patterns (SOLID, MVC, CQRS, TDD)
 - Frontend: Blazor.Net, Angular, React, JavaScript, jQuery, HTML, CSS
 - Backend: ASP.NET Core, C#, Java, Web API, WCF, MVC, LINQ, Entity Framework
 - Frameworks & Libraries: .NET, Angular, JDK, .NET MAUI
