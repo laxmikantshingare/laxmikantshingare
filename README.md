@@ -3,7 +3,7 @@
 
 # Laxmikant Shingare
 
-Please to welcome you in my GitHub profile! I'm passionate about Computer Science and engineering and would like to keep on learning and  working in this IT industry. Below you'll find an overview of my contributions and interests.
+Please to welcome you in my GitHub profile! I'm passionate about Computer Science and engineering and would like to keep on learning and working in IT industry. Below you'll find an overview of my contributions and interests.
 
 ## About Me
 
