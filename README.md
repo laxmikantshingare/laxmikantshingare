@@ -32,7 +32,21 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 ## Contact Me
 
 - Email: laxmikant.shingare@gmail.com
-- LinkedIn: [linkedin.com/in/laxmikantshingare](https://www.linkedin.com/in/laxmikant-shingare-4a82751a/)
 - Phone: +1 (623) 200-1887
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/laxmikant-shingare-4a82751a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Laxmikant SHingare" height="30" width="40" /></a>
+<a href="https://instagram.com/laxmikant_shingare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laxmikant_shingare" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/laxmikant.shingare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laxmikant.shingare" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@laxmikantshingare6699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@laxmikantshingare6699" height="30" width="40" /></a>
+
+</p>
+
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+</picture>  
 ---
