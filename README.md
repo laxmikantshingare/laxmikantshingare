@@ -33,7 +33,7 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 
 - Email: laxmikant.shingare@gmail.com
 - Phone: +1 (623) 200-1887
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/laxmikant-shingare-4a82751a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Laxmikant SHingare" height="30" width="40" /></a>
@@ -49,4 +49,4 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
 </picture>  
----
+
