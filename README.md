@@ -1,4 +1,4 @@
-### Hello Techies 👋
+### Hello Techies 👋   
 ---
 
 # Laxmikant Shingare
@@ -52,3 +52,8 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 क्रियेवीण वाचाळता व्यर्थ आहे ||
 </br>
 Mere words without action are futile
+
+<p align="center">
+  <!-- Floating cartoon -->
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200"/>
+</p>
