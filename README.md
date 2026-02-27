@@ -57,3 +57,8 @@ Mere words without action are futile
   <!-- Floating cartoon -->
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200"/>
 </p>
+
+## OUTofBOX
+- Bachelors in LAW
+- Interest in World History
+- Travel Enthusiast  
