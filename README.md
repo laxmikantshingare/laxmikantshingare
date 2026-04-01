@@ -32,7 +32,6 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 ## Contact Me
 
 - Email: laxmikant.shingare@gmail.com
-- Phone: +1 (608) 207-8721 
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
