@@ -9,7 +9,7 @@ Welcome to my readme
 
 Dedicated software engineer with a Bachelor's and Master's in Computer Science and Engineering. My expertise lies in Microsoft .NET Full Stack Development with Leading and Project Management experience inlcuding cloud services. I thrive in fast-paced environments driving projects to success, having Cross functional team's experience collaborating with people in US / Mexico / Canada / UK and India. Open to relocation and eager for new challenges to leverage my technical and analytical skills.
 
-## Tech Used:
+## Tech Used So far
 
 **Architecture:**   Microservices, SOA, N-Tire with Design Patterns (SOLID, MVC, CQRS, TDD)
 
