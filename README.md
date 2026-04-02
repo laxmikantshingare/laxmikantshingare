@@ -73,5 +73,4 @@ Mere words without action are futile
 
 ## OUTofBOX
 - Bachelors in LAW
-- Interest in World History
 - Travel Enthusiast  
