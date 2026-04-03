@@ -56,9 +56,12 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 </div>
 
 ### ✍️ Random Quote 
-क्रियेवीण वाचाळता व्यर्थ आहे ||
+आ नो᳚ भ॒द्राः क्रत॑वो यन्तु वि॒श्वतोऽ 
 </br>
-Mere words without action are futile
+Let noble thoughts come to us from every side
+</br>
+-ऋग्वेद
+
 
   <div align="center">
     
