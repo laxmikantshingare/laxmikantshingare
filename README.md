@@ -58,7 +58,7 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 ### ✍️ Random Quote 
 आ नो᳚ भ॒द्राः क्रत॑वो यन्तु वि॒श्वतोऽ 
 </br>
-Let noble thoughts come to us from every side
+Let the noble thoughts come to us from every side..
 </br>
 -ऋग्वेद
 
