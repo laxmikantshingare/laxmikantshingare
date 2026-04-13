@@ -30,6 +30,7 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 **Journey:**  Strong experience of Managing End to End Microsoft based Projects mostly in Web, Windows, Mobile and Cloud based applications using Microsoft.Net and related technologies
 
 ## Certification's
+- Model Context Protocol: Advanced Topics - Anthropic 
 -	PMP Certified  (Certificate ID: 4189555   pmi.org)
 -	Certified Scrum Master  (Certificate ID: 798555 scrumalliance.org)
 -	Microsoft Application Development Foundation (70-536)
