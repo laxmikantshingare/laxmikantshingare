@@ -56,6 +56,8 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+
+
 ### ✍️ Random Quote 
 आ नो᳚ भ॒द्राः क्रत॑वो यन्तु वि॒श्वतोऽ 
 </br>
@@ -73,6 +75,15 @@ Let the noble thoughts come to us from every side..
 <p align="center">
   <!-- Floating cartoon -->
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200"/>
+</p>
+
+<!-- TYPING HERO -->
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Jo%C3%A3o+Carpim;Systems+Developer;Problem+Solver+First%2C+Coder+Second" alt="Typing" />
+
+<br/>
+
+<p align="center">
+  <em> Student For Lifetime · Open Source enthusiast · Always Learning</em>
 </p>
 
 ## OUTofBOX
