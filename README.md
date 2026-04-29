@@ -11,7 +11,7 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 
 ## Tech Used so far
 
-**Architecture:**   Microservices, SOA, N-Tire with Design Patterns (SOLID, MVC, CQRS, TDD)
+**Architecture:**   Microservices, SOA, N-Tire with Design Patterns (SOLID, MVC, CQRS, Repository, TDD)
 
 **Frontend:**   Blazor.Net, Angular, React, JavaScript, jQuery, HTML, CSS
 
