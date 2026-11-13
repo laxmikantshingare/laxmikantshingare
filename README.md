@@ -23,14 +23,15 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 
 **Cloud Platforms:**   Microsoft Azure, Amazon Web Service
 
-**Tools & Technologies:**  Visual Studio, Postman, SOAP UI, NUnit, Visio, Rally, JIRA, ServiceNow, UML, Git, Docker, Jenkins, RESTful APIs, DevOps 
+**Tools & Technologies:**  Visual Studio, Postman, SOAP UI, NUnit, Visio, Rally, JIRA, ServiceNow, UML, Git, Docker, Jenkins, RESTful APIs 
 **Monitoring:** Dynatrace and Azure Insights 
 
-**Project Leadership:**   Agile/Scrum, Kanban, Stakeholder Management, Roadmap Planning, Cross Teams, OnShore - OffShore / NearShore Model
+**Project Leadership:**   DevOps, Agile/Scrum, Kanban, Stakeholder Management, Roadmap Planning, Cross Teams, OnShore - OffShore / NearShore Model
 
 **Journey:**  Strong experience of Managing End to End Microsoft based Projects mostly in Web, Windows, Mobile and Cloud based applications using Microsoft.Net and related technologies
 
 ## Certification's
+- Microsoft Certified: Azure Developer Associate (AZ-204)
 - Model Context Protocol: Advanced Topics - Anthropic 
 -	PMP Certified  (Certificate ID: 4189555   pmi.org)
 -	Certified Scrum Master  (Certificate ID: 798555 scrumalliance.org)
