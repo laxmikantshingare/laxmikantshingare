@@ -23,7 +23,8 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 
 **Cloud Platforms:**   Microsoft Azure, Amazon Web Service
 
-**Tools & Technologies:**  Visual Studio, Postman, SOAP UI, NUnit, Visio, Rally, JIRA, ServiceNow, UML, Git, Docker, Jenkins, RESTful APIs, DevOps, CI/CD
+**Tools & Technologies:**  Visual Studio, Postman, SOAP UI, NUnit, Visio, Rally, JIRA, ServiceNow, UML, Git, Docker, Jenkins, RESTful APIs, DevOps 
+**Monitoring:** Dynatrace and Azure Insights 
 
 **Project Leadership:**   Agile/Scrum, Kanban, Stakeholder Management, Roadmap Planning, Cross Teams, OnShore - OffShore / NearShore Model
 
