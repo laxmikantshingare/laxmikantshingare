@@ -15,7 +15,7 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 
 **Frontend:**   Blazor.Net, Angular, React, JavaScript, jQuery, HTML, CSS
 
-**Backend:**   ASP.NET Core, C#, Java, Web API, WCF, MVC, LINQ, Entity Framework
+**Backend:**   ASP.NET Core, C#, Java, Web API, WCF, MVC, LINQ, Entity Framework, RESTful APIs 
 
 **Frameworks & Libraries:**   .NET, Angular, JDK, .NET MAUI
 
@@ -23,7 +23,7 @@ Dedicated software engineer with a Bachelor's and Master's in Computer Science a
 
 **Cloud Platforms:**   Microsoft Azure, Amazon Web Service
 
-**Tools & Technologies:**  Visual Studio, Postman, SOAP UI, NUnit, Visio, Rally, JIRA, ServiceNow, UML, Git, Docker, Jenkins, RESTful APIs 
+**Tools & Technologies:**  Visual Studio, Postman, SOAP UI, NUnit, Visio, Rally, JIRA, ServiceNow, UML, Git, Docker, Jenkins
 **Monitoring:** Dynatrace and Azure Insights 
 
 **Project Leadership:**   DevOps, Agile/Scrum, Kanban, Stakeholder Management, Roadmap Planning, Cross Teams, OnShore - OffShore / NearShore Model
